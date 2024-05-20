@@ -7,7 +7,7 @@
     //24 - 60 - employed
     // 60 120 retired
 
-    {
+    /*{
         let age = 65;
 
         if(age >= 60){
@@ -22,7 +22,7 @@
             childage = "is in upper primary"
         }else if (age >= 6){
             childage = "lower primary"
-        }else if (age >= 3){
+        }else if (age <= 3){
             childage = "should be in kindergarten"
         }else {
             "child should be at home"
@@ -30,3 +30,9 @@
         console.log(age)
 
     }
+    */
+    {
+        let a = 1;
+        a++
+    }
+    console.log(a)
