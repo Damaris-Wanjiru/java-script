@@ -12,7 +12,7 @@
     }
 let str1 = "sis";
 let str2 = "nitin";
-let str3 = "esther";
+let str3 = "nathan";
 
  console.log(isPalindrome (str1));
  console.log(isPalindrome(str2));

@@ -1,4 +1,4 @@
-/*{
+{
     function getSum(n){
     let sum=0
     for(let i=0; i<=n; i++){
@@ -27,8 +27,8 @@ console.log(getSum(10))
     }
     getNumbers(5)
 }
-*/
-/*
+
+
 {
     function getMultiplesOf5And10(i){
         function findMultiplesOf5(num){
@@ -45,15 +45,15 @@ console.log(getSum(10))
         }
     }
 }
-*/
-/*
+
+
 {
     let x = 0;
     while (x<=20){
         console.log(x)
         x++
     }
-}*/
+}
 // to get the 
 {
     const arr = [89, 89, 78, 54, 356, 89]

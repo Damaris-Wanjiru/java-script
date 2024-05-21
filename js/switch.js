@@ -1,4 +1,4 @@
-/*//divisibility test
+//divisibility test
 {
     let number = 9
     switch (number % 3){
@@ -26,6 +26,7 @@
     }
 
 }
+
 {
     let maths = "pass";
     let english = "fail";
@@ -55,4 +56,4 @@
 
 
 
-}*/
+}

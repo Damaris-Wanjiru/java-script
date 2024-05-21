@@ -1,4 +1,4 @@
-/*function sayHello() {
+function sayHello() {
     console.log('hello');
 }
 sayHello();
@@ -40,4 +40,3 @@ sayHello();
         }return sum;
 }console.log(numbers)
 }
-*/
